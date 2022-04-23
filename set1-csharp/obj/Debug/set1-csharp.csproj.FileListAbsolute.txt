@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\set1-csharp\set1-csharp\bin\Debug\set1-csharp.exe.config
+C:\Users\sande\source\repos\set1-csharp\set1-csharp\bin\Debug\set1-csharp.exe
+C:\Users\sande\source\repos\set1-csharp\set1-csharp\bin\Debug\set1-csharp.pdb
+C:\Users\sande\source\repos\set1-csharp\set1-csharp\obj\Debug\set1-csharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\set1-csharp\set1-csharp\obj\Debug\set1-csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\set1-csharp\set1-csharp\obj\Debug\set1-csharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\set1-csharp\set1-csharp\obj\Debug\set1-csharp.exe
+C:\Users\sande\source\repos\set1-csharp\set1-csharp\obj\Debug\set1-csharp.pdb
